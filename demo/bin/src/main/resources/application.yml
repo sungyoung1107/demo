@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+    
+    
+# active를 dev로 돌릴건지 prod 운영으로 돌릴건지 
